@@ -15,9 +15,7 @@
   <p>&emsp;&emsp;只需要 <strong>【关注】</strong>就可以获得积分，
   <strong>HitaDAO</strong> 将按照积分定期分配收益、进行空投！</p>
   <p>&emsp;&emsp;学习者和贡献者还可以获得额外的奖励积分，详见<a href="#">《学赚奖励计划细则》</a>。</p>
-  <p>&emsp;&emsp;<strong>HitaDAO</strong> has launched the "Learn-to-Earn" reward program, with all ecosystem income to be distributed to <strong>DAO</strong> members!</p>
-
-  <p>&emsp;&emsp;Simply by [following], you can earn points. <strong>HitaDAO</strong> will regularly distribute profits and conduct airdrops based on these points!</p>
+  <p>&emsp;&emsp;<strong>HitaDAO</strong> has launched the "Learn-to-Earn" reward program, with all ecosystem income to be distributed to <strong>DAO</strong> members! Simply by [following], you can earn points. <strong>HitaDAO</strong> will regularly distribute profits and conduct airdrops based on these points!</p>
 
   <p>&emsp;&emsp;Learners and contributors can also earn additional reward points. For more details, see the  <a href="#">"Learn-to-Earn Incentive Program Details"</a>.</p>
   <picture>
