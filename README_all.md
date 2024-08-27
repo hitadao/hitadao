@@ -9,9 +9,11 @@
 <table>  
 <tr><td>
   
-  ## 💰 Incentive program <img align="right" src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=50&size=18&width=200&height=40&lines=🚀🚀🚀🚀🚀🚀"  />
+  ## 💰 奖励计划 (Incentive program) <img align="right" src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=50&size=18&width=200&height=40&lines=🚀🚀🚀🚀🚀🚀"  />
   
-
+  <p>&emsp;&emsp;<strong>HitaDAO</strong> 推出"学赚" 奖励计划，生态收入将全部分配给 <strong>DAO</strong> 成员！只需要 <strong>【关注】</strong>就可以获得积分，
+  <strong>HitaDAO</strong> 将按照积分定期分配收益、进行空投！</p>
+  <p>&emsp;&emsp;学习者和贡献者还可以获得额外的奖励积分，详见<a href="#">《学赚奖励计划细则》</a>。</p>
   <p>&emsp;&emsp;<strong>HitaDAO</strong> has launched the "Learn-to-Earn" reward program, with all ecosystem income to be distributed to <strong>DAO</strong> members! Simply by <strong>[Following]</strong>, you can earn points. <strong>HitaDAO</strong> will regularly distribute profits and conduct airdrops based on these points!</p>
 
   <p>&emsp;&emsp;Learners and contributors can also earn additional reward points. For more details, see the  <a href="#">"Learn-to-Earn Incentive Program Details"</a>.</p>
@@ -23,23 +25,26 @@
 </td></tr>
 <tr><td>
   
-  ## 🤺 About HitaDAO
+  ## 🤺 关于 HitaDAO（About HitaDAO）
     
   <img align="right" width="160" src="https://cdn.jsdelivr.net/gh/wangshizebin/wangshizebin/assets/hita_intro.png" />
   
-
+  <p>&emsp;&emsp;<strong>HitaDAO</strong> 是一个全球 <strong>Web3</strong> 建设者的合作网络，致力于推动 <strong>Web3</strong> 的广泛应用。它由 <strong>DAO</strong> 成员共同治理，所有收益由成员共享，持续建设资讯、招聘、学习和试验等生态。</p>
 
 <p>&emsp;&emsp;<strong>HitaDAO</strong> is a global network for <strong>Web3</strong> builders, focused on advancing widespread <strong>Web3</strong> adoption. Governed collectively by <strong>DAO</strong> members, it shares all revenue among them and covers areas like news, recruitment, learning, and experimentation.</p>
 
-  #### 1.Vision
+  #### 1. 愿景 (Vision)
   
+  <p>&emsp;&emsp;构建全球 <strong>Web3</strong> 建设者的连接和协作网络，推动 <strong>Web3</strong> 大规模的采用和价值实现！</p>
   <p>&emsp;&emsp;Build a global network for <strong>Web3</strong> builders to connect and collaborate, driving large-scale adoption and value realization of <strong>Web3</strong>!</p>
   
-  #### 2. (Mechanism
+  #### 2. 机制 (Mechanism)
   
+  <p>&emsp;&emsp;<strong>HitaDAO</strong> 由 <strong>DAO</strong> 成员共建、共治、共享；<strong>HitaDAO</strong> 的全部收益归 <strong>DAO</strong> 成员所有。</p>
+
   <p>&emsp;&emsp;<strong>HitaDAO</strong> is co-built, co-governed, and co-shared by <strong>DAO</strong> members; All profits of <strong>HitaDAO</strong> belong to the <strong>DAO</strong> members.</p>
 
-  #### 3. Ecosystem
+  #### 3. 生态 (Ecosystem)
   
   <div align="center">
     <a href="https://hitajobs.com"><img src="https://cdn.jsdelivr.net/gh/wangshizebin/wangshizebin/assets/eco-job.png" width="80"/></a>&emsp;
@@ -48,7 +53,7 @@
     <a href="https://testtoken.market"><img src="https://cdn.jsdelivr.net/gh/wangshizebin/wangshizebin/assets/eco-testtoken.png"  width="80"/></a>&emsp;
   </div>
   
-  #### 4. Follow us
+  #### 4. 关注我们 (Follow us)
 
   <div align="center">
     <a href="https://x.com/hita_dao"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
