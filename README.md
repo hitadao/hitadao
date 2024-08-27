@@ -13,7 +13,7 @@
   
   <img align="right" width="160" src="https://cdn.jsdelivr.net/gh/wangshizebin/wangshizebin/assets/hita_incentive.png" />
   <p>&emsp;&emsp;<strong>HitaDAO</strong> 推出"学赚" 奖励计划，生态收入将全部分配给 <strong>DAO</strong> 成员！</p>
-  <p>&emsp;&emsp;只需要<strong>【关注】</strong>就可以获得积分，
+  <p>&emsp;&emsp;只需要<span style="font-size:20px;">【关注】</span>就可以获得积分，
   <strong>HitaDAO</strong> 将按照积分定期分配收益、进行空投！</p>
   <p>&emsp;&emsp;学习者和贡献者还可以获得额外的奖励积分，详见<a href="#">《学赚奖励计划细则》</a>。</p>
   <p>&emsp;&emsp;<strong>HitaDAO</strong> has launched the "Learn-to-Earn" reward program, with all ecosystem income to be distributed to <strong>DAO</strong> members!</p>
