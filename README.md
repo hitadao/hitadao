@@ -29,6 +29,10 @@
     
   <img align="right" width="160" src="https://cdn.jsdelivr.net/gh/wangshizebin/wangshizebin/assets/hita_intro.png" />
   
+  <p>&emsp;&emsp;<strong>HitaDAO</strong> 是一个全球 <strong>Web3</strong> 建设者的合作网络，致力于推动 <strong>Web3</strong> 的广泛应用。它由 <strong>DAO</strong> 成员共同治理，所有收益由成员共享，持续建设资讯、招聘、学习和试验等生态。</p>
+
+<p>&emsp;&emsp;Hita is a global network for Web3 builders, focused on advancing widespread Web3 adoption. Governed collectively by DAO members, it shares all revenue among them and covers areas like news, recruitment, learning, and experimentation.</p>
+
   #### 1. 愿景 (Vision)
   
   <p>&emsp;&emsp;构建全球 <strong>Web3</strong> 建设者的连接和协作网络，推动 <strong>Web3</strong> 大规模的采用和价值实现！</p>
