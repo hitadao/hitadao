@@ -11,7 +11,6 @@
   
   ## 💰 "学赚" 奖励计划 (Incentive program) <img align="right" src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=50&size=18&width=200&height=40&lines=🚀🚀🚀🚀🚀🚀"  />
   
-  <img align="right" width="160" src="https://cdn.jsdelivr.net/gh/wangshizebin/wangshizebin/assets/hita_incentive.png" />
   <p>&emsp;&emsp;<strong>HitaDAO</strong> 推出"学赚" 奖励计划，生态收入将全部分配给 <strong>DAO</strong> 成员！</p>
   <p>&emsp;&emsp;只需要 <strong>【关注】</strong>就可以获得积分，
   <strong>HitaDAO</strong> 将按照积分定期分配收益、进行空投！</p>
