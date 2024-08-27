@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/wangshizebin/wangshizebin/assets/hita_header.png" width="100%"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/wangshizebin/wangshizebin/assets/hita_header.png" width="100%" />
-    <img src="https://cdn.jsdelivr.net/gh/wangshizebin/wangshizebin/assets/hita_header.png" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/hitadao/hitadao/assets/hita_header.png" width="100%"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/hitadao/hitadao/assets/hita_header.png" width="100%" />
+    <img src="https://cdn.jsdelivr.net/gh/hitadao/hitadao/assets/hita_header.png" width="100%"/>
   </picture>
 </div>
 
