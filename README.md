@@ -35,7 +35,7 @@
   
   <p>&emsp;&emsp;Build a global network for <strong>Web3</strong> builders to connect and collaborate, driving large-scale adoption and value realization of <strong>Web3</strong>!</p>
   
-  #### 2. (Mechanism
+  #### 2. Mechanism
   
   <p>&emsp;&emsp;<strong>HitaDAO</strong> is co-built, co-governed, and co-shared by <strong>DAO</strong> members; All profits of <strong>HitaDAO</strong> belong to the <strong>DAO</strong> members.</p>
 
