@@ -9,12 +9,12 @@
 <table>  
 <tr><td>
   
-  ## 💰 "学赚" 奖励计划 (Incentive program) <img align="right" src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=50&size=18&width=200&height=40&lines=🚀🚀🚀🚀🚀🚀"  />
+  ## 💰 奖励计划 (Incentive program) <img align="right" src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=50&size=18&width=200&height=40&lines=🚀🚀🚀🚀🚀🚀"  />
   
   <p>&emsp;&emsp;<strong>HitaDAO</strong> 推出"学赚" 奖励计划，生态收入将全部分配给 <strong>DAO</strong> 成员！只需要 <strong>【关注】</strong>就可以获得积分，
   <strong>HitaDAO</strong> 将按照积分定期分配收益、进行空投！</p>
   <p>&emsp;&emsp;学习者和贡献者还可以获得额外的奖励积分，详见<a href="#">《学赚奖励计划细则》</a>。</p>
-  <p>&emsp;&emsp;<strong>HitaDAO</strong> has launched the "Learn-to-Earn" reward program, with all ecosystem income to be distributed to <strong>DAO</strong> members! Simply by [following], you can earn points. <strong>HitaDAO</strong> will regularly distribute profits and conduct airdrops based on these points!</p>
+  <p>&emsp;&emsp;<strong>HitaDAO</strong> has launched the "Learn-to-Earn" reward program, with all ecosystem income to be distributed to <strong>DAO</strong> members! Simply by <strong>[Following]</strong>, you can earn points. <strong>HitaDAO</strong> will regularly distribute profits and conduct airdrops based on these points!</p>
 
   <p>&emsp;&emsp;Learners and contributors can also earn additional reward points. For more details, see the  <a href="#">"Learn-to-Earn Incentive Program Details"</a>.</p>
   <picture>
@@ -36,7 +36,7 @@
   
   #### 2. 机制 (Mechanism)
   
-  <p>&emsp;&emsp;<strong>HitaDAO</strong> 由 <strong>DAO</strong> 成员共建、共治、共享；<strong>Hita DAO</strong> 的全部收益归 <strong>DAO</strong> 成员所有。</p>
+  <p>&emsp;&emsp;<strong>HitaDAO</strong> 由 <strong>DAO</strong> 成员共建、共治、共享；<strong>HitaDAO</strong> 的全部收益归 <strong>DAO</strong> 成员所有。</p>
 
   <p>&emsp;&emsp;<strong>HitaDAO</strong> is co-built, co-governed, and co-shared by <strong>DAO</strong> members; All profits of <strong>HitaDAO</strong> belong to the <strong>DAO</strong> members.</p>
 
