@@ -31,7 +31,7 @@
 
 <p>&emsp;&emsp;<strong>HitaDAO</strong> is a global network for <strong>Web3</strong> builders, focused on advancing widespread <strong>Web3</strong> adoption. Governed collectively by <strong>DAO</strong> members, it shares all revenue among them and covers areas like news, recruitment, learning, and experimentation.</p>
 
-  #### 1.Vision
+  #### 1. Vision
   
   <p>&emsp;&emsp;Build a global network for <strong>Web3</strong> builders to connect and collaborate, driving large-scale adoption and value realization of <strong>Web3</strong>!</p>
   
