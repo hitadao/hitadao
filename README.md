@@ -55,7 +55,7 @@
   <div align="center">
     <a href="https://x.com/hita_dao"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://discord.gg/dzWY3QYGrx"><img src="https://img.shields.io/badge/Discord-DC-8c36db" /></a>&emsp;
-    <a href="https://t.me/+Wvs9ML0Ll9YxYjJl"><img src="https://img.shields.io/badge/Telgram-电报-c32136" /></a>&emsp;
+    <a href="https://t.me/+Wvs9ML0Ll9YxYjJl"><img src="https://img.shields.io/badge/Telegram-电报-c32136" /></a>&emsp;
     <a href="https://space.bilibili.com/2112923943"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://www.youtube.com/@HitaDAO"><img src="https://img.shields.io/badge/Youtube-油管-c32136" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=wangshizebin&label=Views&color=orange&style=flat" alt="访问量统计" />
