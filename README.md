@@ -26,9 +26,9 @@
     
   <img align="right" width="160" src="https://cdn.jsdelivr.net/gh/wangshizebin/wangshizebin/assets/hita_intro.png" />
   
-  <p>&emsp;&emsp;<strong>HitaDAO</strong> 是一个全球 <strong>Web3</strong> 建设者的合作网络，致力于推动 <strong>Web3</strong> 的广泛应用。它由 <strong>DAO</strong> 成员共同治理，所有收益由成员共享，持续建设 <strong>Web3</strong> 资讯、招聘、学习和试验等生态。</p>
+  <p>&emsp;&emsp;<strong>HitaDAO</strong> 是一个全球 <strong>Web3</strong> 建设者的合作网络，致力于推动 <strong>Web3</strong> 的广泛应用。它由 <strong>DAO</strong> 成员共同治理，所有收益由成员共享。<strong>HitaDAO</strong> 将会持续构建 <strong>Web3</strong> 资讯、招聘、学习和试验等生态。</p>
 
-<p>&emsp;&emsp;<strong>HitaDAO</strong> is a global network for <strong>Web3</strong> builders, focused on advancing widespread <strong>Web3</strong> adoption. Governed collectively by <strong>DAO</strong> members, it shares all revenue among them and covers areas like <strong>Web3</strong> news, recruitment, learning, and experimentation.</p>
+  <p>&emsp;&emsp;<strong>HitaDAO</strong> is a global network for <strong>Web3</strong> builders, focused on advancing widespread <strong>Web3</strong> adoption. It is governed collectively by DAO members, and all revenue is shared among them. <strong>HitaDAO</strong> will continue to develop its ecosystem, including <strong>Web3</strong> news, recruitment, learning, and experimentation.</p>
 
   #### 1. 愿景 (Vision)
   
@@ -60,11 +60,41 @@
     <a href="https://www.youtube.com/@HitaDAO"><img src="https://img.shields.io/badge/Youtube-油管-c32136" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=wangshizebin&label=Views&color=orange&style=flat" alt="访问量统计" />
   </div>
-</td></tr>
-</table>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
+</td></tr>
+<tr><td>
+  
+## 📃 生态系统（Ecosystem）
+    
+- ### Hita Jobs 
+  <img align="left" width="80" src="https://cdn.jsdelivr.net/gh/wangshizebin/wangshizebin/assets/eco-job-detail.png" />
+
+  <p>&emsp;&emsp;<a href="https://hitajobs.com" target="_blank">HitaJobs.com</a> 提供最全面、最精准的 <strong>Web3</strong> 行业职位机会。无论您是寻求 <strong>Web3</strong> 职业，还是企业寻找顶尖人才，HitaJobs 都是您的最佳起点。</br>
+  &emsp;&emsp;<a href="https://hitajobs.com">HitaJobs.com</a> offers the most comprehensive and precise job opportunities in the <strong>Web3</strong> industry. Whether you are looking for a <strong>Web3</strong> career or your company is seeking top talent in the field, HitaJobs is your ideal starting point.
+  </p>
+
+- ### Hita School 
+  <img align="left" width="80" src="https://cdn.jsdelivr.net/gh/wangshizebin/wangshizebin/assets/eco-school.png" />
+
+  <p>&emsp;&emsp;<a href="https://binschool.org">BinSchool.org</a> 提供最精准、最实用的 <strong>Web3</strong> 入门知识、工作技能和开发技术等免费课程。课程形式多样，包括文字、语音和视频，内容通俗易懂，准确实用。</br> 
+  &emsp;&emsp;<a href="https://binschool.org">BinSchool.org</a> offers the most precise and practical free courses on <strong>Web3</strong> fundamentals, job skills, and development technologies. The courses come in various formats, including text, audio, and video, with content that is both accessible and accurate.
+  </p>
+
+- ### Hita News 
+  <img align="left" width="80" src="https://cdn.jsdelivr.net/gh/wangshizebin/wangshizebin/assets/eco-news.png" />
+
+  <p>&emsp;&emsp;<a href="https://web3daily.news">Web3Daily.news</a> 提供及时、权威、中立的 <strong>Web3</strong> 资讯。让我们一起挖掘 <strong>Web3</strong>、区块链、加密行业的潜力，捕捉数字经济的发展机会。</br> 
+  &emsp;&emsp;<a href="https://web3daily.news">Web3Daily.news</a> provides timely, authoritative, and neutral <strong>Web3</strong> news. Join us in exploring the potential of Web3, blockchain, and the cryptocurrency industry, and seizing opportunities in the digital economy.
+</p>
+
+</td></tr>
+</table>
+<div align="center" >
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="120" height="120">
+</div>
 </div>
