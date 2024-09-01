@@ -74,7 +74,7 @@
 - ### Hita Jobs 
   <img align="left" width="100" src="https://cdn.jsdelivr.net/gh/hitadao/hitadao/assets/eco-job-detail.png" />
 
-  <p>&emsp;&emsp;<a href="https://hitajobs.com" target="_blank">HitaJobs.com</a> 提供最全面、最精准的 <strong>Web3</strong> 行业职位机会。无论您是寻求 <strong>Web3</strong> 职业，还是企业寻找顶尖人才，HitaJobs 都是您的最佳起点。</br>
+  <p>&emsp;&emsp;<a href="https://hitajobs.com" target="_blank">HitaJobs.com</a> 提供最全面、最精准的 <strong>Web3</strong> 行业职位。无论您是寻求 <strong>Web3</strong> 职业，还是企业寻找顶尖人才，HitaJobs 都是您的最佳起点。</br>
   &emsp;&emsp;<a href="https://hitajobs.com">HitaJobs.com</a> offers the most comprehensive and precise job opportunities in the <strong>Web3</strong> industry. Whether you are looking for a <strong>Web3</strong> career or your company is seeking top talent in the field, HitaJobs is your ideal starting point.
   </p>
 
