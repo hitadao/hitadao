@@ -26,7 +26,7 @@
     
   <img align="right" width="160" src="https://cdn.jsdelivr.net/gh/hitadao/hitadao/assets/hita_intro.png" />
   
-  <p>&emsp;&emsp;<strong>HitaDAO</strong> 是一个全球 <strong>Web3</strong> 建设者的合作网络，致力于推动 <strong>Web3</strong> 的广泛应用。它由 <strong>DAO</strong> 成员共同治理，所有收益由成员共享。<strong>HitaDAO</strong> 将会持续构建 <strong>Web3</strong> 资讯、招聘、学习和试验等生态。</p>
+  <p>&emsp;&emsp;<strong>HitaDAO</strong> 是一个全球 <strong>Web3</strong> 建设者的合作网络，致力于推动 <strong>Web3</strong> 的广泛应用。它由 <strong>DAO</strong> 成员共同治理，所有收益由 <strong>DAO</strong>  成员共享。<strong>HitaDAO</strong> 将会持续构建 <strong>Web3</strong> 资讯、招聘、学习和试验等生态。</p>
 
   <p>&emsp;&emsp;<strong>HitaDAO</strong> is a global network for <strong>Web3</strong> builders, focused on advancing widespread <strong>Web3</strong> adoption. It is governed collectively by DAO members, and all revenue is shared among them. <strong>HitaDAO</strong> will continue to develop its ecosystem, including <strong>Web3</strong> news, recruitment, learning, and experimentation.</p>
 
